@@ -21,6 +21,7 @@ Clone the project and access the folder.
 ```bash
 $ git clone https://github.com/rcapeto/rocketseat-ignite-node.git
 $ cd rocketseat-ignite-node
+$ cd withoutPrisma
 ```
 
 To start, follow the instructions:
