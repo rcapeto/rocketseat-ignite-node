@@ -11,6 +11,8 @@ This project has developed with:
 - [TypeScript](https://www.typescriptlang.org/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node](https://nodejs.org/en/docs/)
+- [Multer](https://github.com/expressjs/multer)
+- [Swagger](https://swagger.io/docs/)
 
 ## 🚀 How to execute
 
@@ -34,6 +36,7 @@ The app will be available in the [web address](http://localhost:3333).
 ## 💻 Project
 
 - Using S.O.L.I.D and Design Patterns concepts;
+- API Documentation
 - API developed in rocketseat-ignite classes. 
 
 ## 👨🏻‍💻 Devs
