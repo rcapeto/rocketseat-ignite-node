@@ -1,0 +1,9 @@
+{
+  "name": "rocketseatiginite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prisma": "^3.12.0"
+  }
+}
